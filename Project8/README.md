@@ -1,1 +1,1 @@
-
+This file documents learning the basics of Python data science tools: pandas, NumPy, and matplotlib for exploring and manipulating data. It focuses on understanding DataFrames, data structure, and how these tools support machine learning, while reflecting on the challenges and progress in a first coding class
