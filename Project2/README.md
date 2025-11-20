@@ -1,1 +1,1 @@
-
+This project goes over the practical data preprocessing for machine learning: loading and inspecting data with Pandas, visualizing features, handling missing values, encoding categories, detecting outliers, and preparing balanced, clean datasets for accurate predictive modeling
