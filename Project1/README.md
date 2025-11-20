@@ -1,1 +1,1 @@
-This file teaches the fundamentals of machine learning, including supervised and unsupervised learning, key algorithms, and the practical use of Python for implementing ML models. It also covers data preprocessing, model evaluation, and real-world AI applications.
+This project goes over the fundamentals of machine learning, including supervised and unsupervised learning, key algorithms, and the practical use of Python for implementing ML models. It also covers data preprocessing, model evaluation, and real-world AI applications.
