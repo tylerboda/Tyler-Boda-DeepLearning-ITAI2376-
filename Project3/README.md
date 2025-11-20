@@ -1,1 +1,1 @@
-
+This project goes over the essential data preprocessing and feature engineering for machine learning. You learn how to handle missing values, encode categories, scale and normalize features, detect and cap outliers, automate workflows with pipelines, and use visualizations to ensure data quality.
