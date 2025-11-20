@@ -1,1 +1,1 @@
-
+This project goes over how linear and logistic regression work in machine learning, covering model optimization with gradient descent, loss functions like MSE, and the concept of regularization to prevent overfitting and improve generalization to new data.
