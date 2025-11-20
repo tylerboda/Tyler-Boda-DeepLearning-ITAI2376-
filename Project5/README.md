@@ -1,1 +1,1 @@
-
+This project goes over how decision trees work for prediction and why they can overfit, then explores ensemble methods (bagging, boosting, stacking) that combine models to improve accuracy, reduce overfitting, and better generalize to new data. It covers Random Forests, AdaBoost, and stacking, with a focus on understanding bias-variance tradeoff and practical model improvement.
