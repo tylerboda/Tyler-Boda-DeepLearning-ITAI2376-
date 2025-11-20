@@ -1,1 +1,1 @@
-
+This project goes over unsupervised learning: how clustering (like K-Means and hierarchical methods) finds patterns and groups in unlabeled data, and how dimensionality reduction (PCA, t-SNE) simplifies complex datasets for analysis and visualization using real-world examples.
